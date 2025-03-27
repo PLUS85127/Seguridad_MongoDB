@@ -113,3 +113,5 @@ MongoDB no iniciaba debido a dos factores principales:
 3. **Reinicio y prueba**: Una vez configurado correctamente, MongoDB se reinició y aceptó conexiones seguras utilizando TLS.
 
 ---
+Pero ahunque si puedo reiniciar el archivo de configuración ahun asi no me deja iniciar sesion
+  ![Error del inicio de sesion](imagenes/erroror.png)
